@@ -1,0 +1,22 @@
+{
+  "name": "pranavarya",
+  "version": "1.0.1",
+  "description": "Pranav Arya - npm package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pranavarya": "index.js"
+  },
+  "keywords": [],
+  "author": "Pranav Arya",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "nanospinner": "^1.1.0"
+  }
+}
